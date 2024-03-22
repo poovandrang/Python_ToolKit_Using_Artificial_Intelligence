@@ -10,7 +10,7 @@ OCR, which stands for Optical Character Recognition, is a powerful technology us
 
 # ScreenShots
 ## SAMPLE INPUT
-     STREAMLIT RUN MAIN.PY
+#### STREAMLIT RUN MAIN.PY
      ![image](https://github.com/poovandrang/Python_ToolKit_Using_Artificial_Intelligence/assets/136569530/c4391003-11d5-4d72-b134-d25bf0c25af1)
      ![image](https://github.com/poovandrang/Python_ToolKit_Using_Artificial_Intelligence/assets/136569530/9f87b395-e6b1-4650-a467-529ad8dfbae8)
 
