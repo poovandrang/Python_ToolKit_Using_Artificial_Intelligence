@@ -8,7 +8,7 @@ OCR, which stands for Optical Character Recognition, is a powerful technology us
 # SYSTEM ARCHITECTURE
 ![langchain](https://github.com/poovandrang/Python_ToolKit_Using_Artificial_Intelligence/assets/136569530/55e1d583-319c-42b4-a804-9911d76b935e)
 
-# ScreenShots
+# SCREENSHOTS
 ## SAMPLE INPUT
     
 ![image](https://github.com/poovandrang/Python_ToolKit_Using_Artificial_Intelligence/assets/136569530/87b80f9d-a2a4-4080-ac8e-33fc75139aee)
