@@ -26,7 +26,7 @@ from PIL import Image
 
 
 
-print("print stat")
+print("new")
 
 class PDF:
 
