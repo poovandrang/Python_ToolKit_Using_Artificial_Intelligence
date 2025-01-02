@@ -24,7 +24,9 @@ from langchain.callbacks import get_openai_callback
 import pytesseract
 from PIL import Image
 
-print("using revert")
+
+
+print("new")
 
 class PDF:
 
